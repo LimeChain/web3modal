@@ -3,6 +3,7 @@ node_modules
 
 # ignore transpiled files
 lib
+dist
 
 .env
 

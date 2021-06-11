@@ -1,3 +1,4 @@
+/// <reference types="react" />
 import { ThemeColors } from "../helpers";
 interface IProviderProps {
     name: string;
